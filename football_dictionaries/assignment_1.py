@@ -1,4 +1,3 @@
-
 def players_as_dictionaries(squads_list):
     player_dict_list = []
     for i in squads_list:
